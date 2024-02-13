@@ -1,0 +1,57 @@
+.contactIco {
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
+
+.contactContainer {
+    width: 100%;
+    display: flex;
+    float: left;
+}
+
+.contactLogoContainer {
+    width: 100%;
+    text-align: center;
+    margin-right: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.contactFormContainer {
+    width: 100%;
+    text-align: center;
+    height: 100%;
+}
+
+.textAreaContact {
+    outline: none;
+    width: 80%;
+    height: 100px;
+    resize: none;
+    border: 0;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background: rgb(255, 255, 255);
+    padding: 10px 10px 10px 20px;
+    margin-top: 10px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.buttonContact {
+    padding: 5px 17px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    outline: none;
+    color: white;
+    background-color: black;
+    border: none;
+    display: block;
+    margin:auto;
+        
+}
+
+.buttonContact:hover {
+    transform: scale(0.95);
+}

@@ -1,0 +1,19 @@
+.complexInfoContainer {
+    height: 100%;
+    width: 58%;
+    float: left;
+}
+
+.complexInfoContainer>.firstInfoContainer {
+    display: flex;
+}
+
+
+.first4elements {
+    width: 100%;
+    float: left;
+}
+
+.second4elements {
+    width: 100%;
+}

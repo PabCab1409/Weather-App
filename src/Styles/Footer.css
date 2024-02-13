@@ -1,0 +1,12 @@
+.developedBy{
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.developedBy > a, a:link, a:visited, a:active{
+    text-decoration:none;
+    color: white;
+}
